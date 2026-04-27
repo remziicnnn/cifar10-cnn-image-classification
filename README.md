@@ -26,7 +26,7 @@ Bu projede, CIFAR-10 veri seti kullanılarak bir Convolutional Neural Network (C
 
 ## 📂 Proje Yapısı
 
-* `cifar10_cnn.ipynb` → Modelin eğitildiği ve test edildiği notebook
+* `görüntü_işleme_proje.ipynb` → Modelin eğitildiği ve test edildiği notebook
 * `README.md` → Proje açıklamaları
 
 
