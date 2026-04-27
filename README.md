@@ -1,7 +1,6 @@
 # CIFAR-10 Görüntü Sınıflandırma (CNN)
 
 Bu projede, CIFAR-10 veri seti kullanılarak bir Convolutional Neural Network (CNN) modeli ile görüntü sınıflandırma işlemi gerçekleştirilmiştir.
-
 ## 🚀 Proje Özeti
 
 * TensorFlow/Keras kullanılarak CNN modeli geliştirildi
